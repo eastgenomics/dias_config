@@ -10,5 +10,5 @@ Contains the dias config file which contains the file ids of the dynamic files
 | Files | Date |
 |---	|---	|
 |nirvana_genes2transcripts  |201218|
-|genepanels                 |201216|
-|BioinformaticManifest      |201216|
+|genepanels                 |210224|
+|BioinformaticManifest      |210224|
