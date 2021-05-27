@@ -1,5 +1,8 @@
 project_id = "project-Fkb6Gkj433GVVvj73J7x8KbV"
 
-genepanels_file = "{}:file-G1QvZP0433GQqbbY6951JvGf".format(project_id)
-bioinformatic_manifest = "{}:file-G1QvZbQ433GYX70v8f0YBxgb".format(project_id)
-nirvana_genes2transcripts = "{}:file-G1qQ9JQ433GZ4G8Q5Z1xy0ZF".format(project_id)
+# genepanels 210526
+genepanels_file = "{}:file-G2gg1F0433GjQbzVKgYpQfX0".format(project_id)
+# manifest 210526
+bioinformatic_manifest = "{}:file-G2gg12Q433Gp47b0JGGzZXZB".format(project_id)
+# g2t 210526
+nirvana_genes2transcripts = "{}:file-G2gg1Qj433GZx8j686G7XY9x".format(project_id)
