@@ -5,4 +5,4 @@ genepanels_file = "{}:file-GBxP5Z8433GfKq081gj59q82".format(project_id)
 # manifest 220628
 bioinformatic_manifest = "{}:file-GBxP5PQ433GkFv9YKB2pKbbp".format(project_id)
 # g2t 220609
-genes2transcripts = "{}:file-GBQvv5Q433GbB6484P9ZxYF9".format(project_id)
+genes2transcripts = "{}:file-GF613kj433Gy5P4v5FZqPk3j".format(project_id)
